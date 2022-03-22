@@ -50,8 +50,8 @@ const buttonDeleteHandler = function (evt) {
 		if (block.classList.contains('footer')) {
 			block.classList.add('footer--empty');
 		}
-};
-	const editContentHandler
+	};
+
 const chooseButtonElements = document.querySelectorAll('.choose-elem__btn');
 
 const addElementHandler = function (evt)
